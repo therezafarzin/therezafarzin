@@ -8,7 +8,7 @@ Python · Kotlin · TypeScript
 
 ## Interests
 
-Android development, web applications, automation, and automotive technology.
+Web applications, automation, and automotive technology.
 
 ## Work
 
